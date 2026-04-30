@@ -1,0 +1,43 @@
+import {
+  ClassDB,
+  classDiagram_default,
+  classRenderer_v3_unified_default,
+  styles_default
+} from "./chunk-NSPKZS3N.js";
+import "./chunk-2ILUUIBD.js";
+import "./chunk-KQJB562F.js";
+import "./chunk-E3N6IKYL.js";
+import "./chunk-G3UB2FCD.js";
+import "./chunk-26Z3ROKD.js";
+import "./chunk-MB5QTPH3.js";
+import "./chunk-ZKZTPX7U.js";
+import "./chunk-XAOA2AE3.js";
+import "./chunk-5QVKPIE5.js";
+import "./chunk-WWKCZ7RG.js";
+import "./chunk-VGAWTWDZ.js";
+import "./chunk-HTCZ7P7B.js";
+import "./chunk-Y5SYFPW2.js";
+import "./chunk-ELR33PE3.js";
+import {
+  __name
+} from "./chunk-5STBZGF5.js";
+import "./chunk-WPLOTFGW.js";
+
+// ../../node_modules/mermaid/dist/chunks/mermaid.core/classDiagram-v2-WZHVMYZB.mjs
+var diagram = {
+  parser: classDiagram_default,
+  get db() {
+    return new ClassDB();
+  },
+  renderer: classRenderer_v3_unified_default,
+  styles: styles_default,
+  init: /* @__PURE__ */ __name((cnf) => {
+    if (!cnf.class) {
+      cnf.class = {};
+    }
+    cnf.class.arrowMarkerAbsolute = cnf.arrowMarkerAbsolute;
+  }, "init")
+};
+export {
+  diagram
+};
