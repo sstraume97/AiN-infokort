@@ -66,9 +66,15 @@
         "path": "AiN Informasjonsmateriell / Infokort / Designutkast / Versjon 1 / Design-kode-V1"
     },
     {
-        "id": "New%20note.html",
-        "title": "New note",
+        "id": "Lenke.html",
+        "title": "Lenke",
         "content": "Designutkast 1 [https://Designutkast_informasjonskort.html]\n\nDesignutkast 2 [https://Designutkast_informasjonskort_1.html]\n\nDesignutkast 3 [https://Designutkast_informasjonskort_2.html]",
-        "path": "AiN Informasjonsmateriell / Infokort / New note"
+        "path": "AiN Informasjonsmateriell / Infokort / Lenke"
+    },
+    {
+        "id": "Vedlegg.html",
+        "title": "Vedlegg",
+        "content": "",
+        "path": "AiN Informasjonsmateriell / Infokort / Vedlegg"
     }
 ]

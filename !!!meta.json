@@ -162,7 +162,7 @@
 							"title": "Versjon 3",
 							"notePosition": 20,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "render",
 							"mime": "",
 							"attributes": [
@@ -210,7 +210,7 @@
 							"title": "Versjon 2",
 							"notePosition": 40,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "render",
 							"mime": "",
 							"attributes": [
@@ -258,7 +258,7 @@
 							"title": "Versjon 1",
 							"notePosition": 50,
 							"prefix": null,
-							"isExpanded": true,
+							"isExpanded": false,
 							"type": "render",
 							"mime": "",
 							"attributes": [
@@ -304,7 +304,7 @@
 						"tYdOa37BbFHO",
 						"O9UXLUftELbS"
 					],
-					"title": "New note",
+					"title": "Lenke",
 					"notePosition": 40,
 					"prefix": null,
 					"isExpanded": false,
@@ -312,8 +312,51 @@
 					"mime": "text/html",
 					"attributes": [],
 					"format": "html",
-					"dataFileName": "New note.html",
+					"dataFileName": "Lenke.html",
 					"attachments": []
+				},
+				{
+					"isClone": false,
+					"noteId": "hpkHG2K2rDrL",
+					"notePath": [
+						"tYdOa37BbFHO",
+						"hpkHG2K2rDrL"
+					],
+					"title": "Vedlegg",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Vedlegg.html",
+					"attachments": [
+						{
+							"attachmentId": "1dtACLdYEoq9",
+							"title": "Designutkast_informasjonskort.html",
+							"role": "file",
+							"mime": "text/html",
+							"position": 10,
+							"dataFileName": "Vedlegg_Designutkast_info.html"
+						},
+						{
+							"attachmentId": "56kQ5TWHjqnz",
+							"title": "Designutkast_informasjonskort_2.html",
+							"role": "file",
+							"mime": "text/html",
+							"position": 10,
+							"dataFileName": "1_Vedlegg_Designutkast_info.html"
+						},
+						{
+							"attachmentId": "dYSdYVdwcFW4",
+							"title": "Designutkast_informasjonskort_1.html",
+							"role": "file",
+							"mime": "text/html",
+							"position": 10,
+							"dataFileName": "2_Vedlegg_Designutkast_info.html"
+						}
+					]
 				}
 			]
 		},
