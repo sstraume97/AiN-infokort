@@ -1,0 +1,893 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.102.2",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "tYdOa37BbFHO",
+			"notePath": [
+				"tYdOa37BbFHO"
+			],
+			"title": "Infokort",
+			"notePosition": 10,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "relation",
+					"name": "brosjyre_kategori",
+					"value": "tYdOa37BbFHO",
+					"isInheritable": false,
+					"position": 20
+				},
+				{
+					"type": "label",
+					"name": "Kategori",
+					"value": "Infokort",
+					"isInheritable": false,
+					"position": 30
+				},
+				{
+					"type": "relation",
+					"name": "template",
+					"value": "_template_grid_view",
+					"isInheritable": false,
+					"position": 40
+				}
+			],
+			"format": "html",
+			"dataFileName": "Infokort.html",
+			"attachments": [],
+			"dirFileName": "Infokort",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "6eZOYnbkPOOe",
+					"notePath": [
+						"tYdOa37BbFHO",
+						"6eZOYnbkPOOe"
+					],
+					"title": "Informasjonskort – tekstforslag",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "autoReadOnlyDisabled",
+							"value": "",
+							"isInheritable": false,
+							"position": 20
+						},
+						{
+							"type": "label",
+							"name": "Kategori",
+							"value": "Infokort",
+							"isInheritable": false,
+							"position": 30
+						}
+					],
+					"format": "html",
+					"dataFileName": "Informasjonskort – tekstforsla.html",
+					"attachments": [],
+					"dirFileName": "Informasjonskort – tekstforslag",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "lCSyNGYzzanU",
+							"notePath": [
+								"tYdOa37BbFHO",
+								"6eZOYnbkPOOe",
+								"lCSyNGYzzanU"
+							],
+							"title": "Hovedkort",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "Kategori",
+									"value": "Infokort",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"format": "html",
+							"dataFileName": "Hovedkort.html",
+							"attachments": []
+						},
+						{
+							"isClone": false,
+							"noteId": "jTV0lYISQ2pn",
+							"notePath": [
+								"tYdOa37BbFHO",
+								"6eZOYnbkPOOe",
+								"jTV0lYISQ2pn"
+							],
+							"title": "Tilleggskort",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "label",
+									"name": "Kategori",
+									"value": "Infokort",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"format": "html",
+							"dataFileName": "Tilleggskort.html",
+							"attachments": []
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "SwxOGWDnTzg0",
+					"notePath": [
+						"tYdOa37BbFHO",
+						"SwxOGWDnTzg0"
+					],
+					"title": "Designutkast",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Designutkast.html",
+					"attachments": [],
+					"dirFileName": "Designutkast",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "kYzjucsTf0ce",
+							"notePath": [
+								"tYdOa37BbFHO",
+								"SwxOGWDnTzg0",
+								"kYzjucsTf0ce"
+							],
+							"title": "Versjon 3",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "render",
+							"mime": "",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "renderNote",
+									"value": "HI8dUJD0tVxo",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"dataFileName": "Versjon 3.html",
+							"attachments": [],
+							"dirFileName": "Versjon 3",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "HI8dUJD0tVxo",
+									"notePath": [
+										"tYdOa37BbFHO",
+										"SwxOGWDnTzg0",
+										"kYzjucsTf0ce",
+										"HI8dUJD0tVxo"
+									],
+									"title": "Design-kode-V3",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "code",
+									"mime": "text/html",
+									"attributes": [],
+									"dataFileName": "Design-kode-V3.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "9UMc5h7bMiUG",
+							"notePath": [
+								"tYdOa37BbFHO",
+								"SwxOGWDnTzg0",
+								"9UMc5h7bMiUG"
+							],
+							"title": "Versjon 2",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "render",
+							"mime": "",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "renderNote",
+									"value": "WJdracnOm5UO",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"dataFileName": "Versjon 2.html",
+							"attachments": [],
+							"dirFileName": "Versjon 2",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "WJdracnOm5UO",
+									"notePath": [
+										"tYdOa37BbFHO",
+										"SwxOGWDnTzg0",
+										"9UMc5h7bMiUG",
+										"WJdracnOm5UO"
+									],
+									"title": "Design-kode-V2",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "code",
+									"mime": "text/html",
+									"attributes": [],
+									"dataFileName": "Design-kode-V2.html",
+									"attachments": []
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "M9kgGY7QEDvn",
+							"notePath": [
+								"tYdOa37BbFHO",
+								"SwxOGWDnTzg0",
+								"M9kgGY7QEDvn"
+							],
+							"title": "Versjon 1",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "render",
+							"mime": "",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "renderNote",
+									"value": "7fHFJcBQxDD4",
+									"isInheritable": false,
+									"position": 20
+								}
+							],
+							"dataFileName": "Versjon 1.html",
+							"attachments": [],
+							"dirFileName": "Versjon 1",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "7fHFJcBQxDD4",
+									"notePath": [
+										"tYdOa37BbFHO",
+										"SwxOGWDnTzg0",
+										"M9kgGY7QEDvn",
+										"7fHFJcBQxDD4"
+									],
+									"title": "Design-kode-V1",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "code",
+									"mime": "text/html",
+									"attributes": [],
+									"dataFileName": "Design-kode-V1.html",
+									"attachments": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "O9UXLUftELbS",
+					"notePath": [
+						"tYdOa37BbFHO",
+						"O9UXLUftELbS"
+					],
+					"title": "New note",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "New note.html",
+					"attachments": []
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "icon-color.svg"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-CYEKBG2K.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-JKX5W2C4.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_AMS-Regular-U6PRYMIZ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-5QL5CMTE.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-WZ3QSGD3.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Bold-ZTS3R3HK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-3LKEU76G.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-A7XRTZ5Q.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Caligraphic-Regular-KX5MEWCF.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-2QVFK6NQ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-T4SWXBMT.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Bold-WGHVTYOR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-2PEIFJSJ.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-5U4OPH2X.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Fraktur-Regular-PQMHCIK6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-2GA4IZIN.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-W5FBVCZM.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Bold-YP5VVQRP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-4P4C7HJH.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-N4V3DX7S.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-BoldItalic-ODMLBJJQ.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-I43T2HSR.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-RELBIK7M.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Italic-SASNQFN2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-ARRPAO67.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-P5I74A2A.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Main-Regular-W74P5G27.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-6EBV3DK5.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-K4WTGH3J.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-BoldItalic-VB447A4D.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-6KGCHLFN.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-KKK3USB2.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Math-Italic-SON4MRCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-RRNVJFFW.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-STQ6RXC7.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Bold-X5M5EMOD.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-HMPFTM52.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-PSN4QKYX.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Italic-WTBAZBGY.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-2TL3USAE.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-OQCII6EP.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_SansSerif-Regular-XIQ62X4E.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-72OLXYNA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-A5IFOEBS.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Script-Regular-APUWIHLP.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-4HRHTS65.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-5LRUTBFT.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size1-Regular-7K6AASVL.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-222HN3GT.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-K5ZHAIS6.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size2-Regular-LELKET5D.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-TLFPAHDE.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-UFCO6WCA.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size3-Regular-WQRQ47UD.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-7PGNVPQK.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-CDMV7U5C.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Size4-Regular-PKMWZHNC.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-MJMFSK64.woff"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architecture-7HQA4BMR-DYBL4AVW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/architectureDiagram-VXUJARFQ-FEAXENJH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/auto-render-ZC4YGEQA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/blockDiagram-VD42YOAC-7LGYJAYZ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/c4Diagram-YG6GDRKO-P6Q4OMZL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-26Z3ROKD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-2D6DACYQ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-2ILUUIBD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-4NASS3RI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-5HHVXMLS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-5QVKPIE5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-5STBZGF5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-5THU4G5B.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-5ZT7KFZV.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-A5UNPJNI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-BHVL6ICI.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-D6DRJAFA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-E3N6IKYL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-EKIYDQFE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ELR33PE3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-FGVOLWT6.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-FQHWBKDL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-G3UB2FCD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-HTCZ7P7B.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-JOVIPWUH.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-KBTKKZ3O.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-KHFIOR5Y.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-KQJB562F.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-LHQHP3B4.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MB5QTPH3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MHSWEHVO.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MUA3HMCU.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-MYS4CNP3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-NSPKZS3N.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-OAYU2SV5.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-OOAZK4XL.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-UIHGHBLU.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-VGAWTWDZ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-W76A7R2H.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-WPLOTFGW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-WWKCZ7RG.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-XAOA2AE3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-Y5SYFPW2.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/chunk-ZKZTPX7U.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-2ON5EDUG-CDCKCI7X.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/classDiagram-v2-WZHVMYZB-F4D4VY47.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/cose-bilkent-S5V4N54A-JHY4MKE3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/dagre-6UL2VRFP-WTMIPQVS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-PSM6KHXK-ESQAQHWR.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-QEK2KX5R-TRFRLBRM.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/diagram-S2PKOQOG-AIEEBGQP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/erDiagram-Q2GNP2WA-EYDVNM3I.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/flowDiagram-NV44I4VS-IO2E222A.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/fuse-WLLO7JJB.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/ganttDiagram-JELNMOA3-AXTSRFTP.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraph-G5XIXVHT-YABSE67C.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/gitGraphDiagram-V2S2FVAM-433JOLMA.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/info-VBDWY6EO-2ZF6MDIR.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/infoDiagram-HS3SLOUP-3KOZTS5Q.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/journeyDiagram-XKPGCS4Q-HRBP4SYX.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/kanban-definition-3W4ZIXB7-YIOXDSCO.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/katex-EW6G5SW7.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mermaid.core-H3K5UKN3.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mhchem-Y6RRLS7L.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/mindmap-definition-VGOIOE7T-QH3H4Y7X.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/packet-DYOGHKS2-BBXLPPJE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pie-VRWISCQL-IXAMFZUW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/pieDiagram-ADFJNKIX-XJLXMVVD.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/quadrantDiagram-AYHSOK5B-PICUKF2G.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/radar-ZZBFDIW7-4ONS62EZ.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/requirementDiagram-UZGBJVZJ-KCGV66LU.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sankeyDiagram-TZEHDZUN-7L2SHDXW.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/scripts.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/sequenceDiagram-WL72ISMW-Y3FEPLIE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-FKZM4ZOC-D65L6WFX.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/stateDiagram-v2-4FDKWEC3-TWQE4B44.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/styles.css"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/timeline-definition-IT6M3QCI-KFFFNNNE.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/treemap-GDKQZRPO-TJLC2ULS.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "assets/xychartDiagram-PRI3JC2R-WYDOD3EF.js"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		}
+	]
+}
